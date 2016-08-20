@@ -33,7 +33,7 @@ The placeholders in the format string are marked by `%` and are followed by one 
     * `f` — yields a float as is; see notes on precision above
     * `g` — yields a float as is; see notes on precision above
     * `o` — yields an integer as an octal number
-    * `s` — yields a string as is
+    * `s` or `S` — yields a string as is
     * `t` — yields `true` or `false`
     * `T` — yields the type of the argument<sup><a href="#fn-1" name="fn-ref-1">1</a></sup>
     * `v` — yields the primitive value of the specified argument
